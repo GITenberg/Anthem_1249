@@ -1,0 +1,34 @@
+_repo: Anthem_1249
+creator:
+  author:
+    agent_name: Rand, Ayn
+    aliases:
+    - Rosenbaum, Alice
+    - Rand, Ain
+    - O'Connor, Ayn Rand
+    - Rosenbaum, Alissa Zinovievna
+    birthdate: 1905
+    deathdate: 1982
+    gutenberg_agent_id: '572'
+    url: http://www.gutenberg.org/2009/agents/572
+    wikipedia: http://en.wikipedia.org/wiki/Ayn_Rand
+description: 'There is a different edition at #1250. The file anthm10z.* is a comparison
+  of both.'
+gutenberg_issued: '1998-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1249'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Men -- Psychology -- Fiction'
+- !lcsh 'Psychological fiction'
+- !lcsh 'Individuality -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Time travel -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Science fiction'
+title: Anthem
+url: http://www.gutenberg.org/ebooks/1249
